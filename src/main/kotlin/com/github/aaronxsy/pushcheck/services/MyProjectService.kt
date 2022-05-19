@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.aaronxsy.pushcheck.services
 
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
+import com.github.aaronxsy.pushcheck.MyBundle
 
 class MyProjectService(project: Project) {
 
